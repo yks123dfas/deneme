@@ -1,0 +1,55 @@
+[
+    {
+      lesson: "Organik",
+      questions: [
+        { 1: "denesdfme" },
+        { 2: "dendsfeme" },
+        { 3: "deneme" },
+        { 4: "deneme" },
+        { 5: "deneme" },
+        { 6: "deneme" },
+        { 7: "deneme" },
+        { 8: "deneme" },
+      ],
+    },
+    {
+      lesson: "Organik",
+      questions: [
+        { alo: "deneme" },
+        { alo: "deneme" },
+        { 3: "deneme" },
+        { alo: "deneme" },
+        { alo: "deneme" },
+        { alo: "deneme" },
+        { alo: "deneme" },
+        { alo: "deneme" },
+      ],
+    },
+    {
+      lesson: "Organik",
+      questions: [
+        { alo: "deneme" },
+        { alo: "deneme" },
+        { alo: "deneme" },
+        { alo: "deneme" },
+        { alo: "deneme" },
+        { alo: "deneme" },
+        { alo: "deneme" },
+        { alo: "deneme" },
+      ],
+    },
+    {
+      lesson: "Organik",
+      questions: [
+        { alo: "deneme" },
+        { alo: "deneme" },
+        { alo: "deneme" },
+        { alo: "deneme" },
+        { alo: "deneme" },
+        { alo: "deneme" },
+        { alo: "deneme" },
+        { alo: "deneme" },
+      ],
+    },
+  ];
+ 
